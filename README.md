@@ -4,6 +4,12 @@ EXCEL SKILLS_VIRTUAL_EXPERIENCE_PROGRAM
 Tool used:
 Microsoft EXCEL
 
+Skills Gaine:
+        Excel Keyboard Shortcuts
+        Conditional Formatting
+        Visual Basic for Applications (VBA) Macros
+        Data Visualization in Excel
+        Data-Driven Storytelling
 
 Task 1:
  The task is to use Excel’s conditional formatting tools to explore and then, use the conditional formatting tools (either the menu-based tools or write your own conditional formatting formulas, whichever you prefer) to do the following explorations of the data:
